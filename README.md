@@ -1,1 +1,1 @@
-DEPLOY: https://marceladoradomunoz.github.io/desafio_01_pizzeria/
+DEPLOY: https://marceladoradomunoz.github.io/desafio_02_pizzeria/
